@@ -30,10 +30,10 @@ You can contribute to this list using the following rules:
         ~
         # Steins;Gate 0
         * 10788
-        + ` 0 `
+        + `0`
         - `Steins `, `Gate`
     
-This means that in case littleweeb finds an episode for `Steins;Gate 0` with the title `[HorribleSubs] Steins Gate 0 - 01 [1080p].mkv`, it will show this episode because it contains ` 0 ` (be sure to add spaces around a word which will ALWAYS be used mid sentence! 
+This means that in case littleweeb finds an episode for `Steins;Gate 0` with the title `[HorribleSubs] Steins Gate 0 - 01 [1080p].mkv`, it will show this episode because it contains `0`.
 
 Littleweeb is not that smart and will also find episodes when searching for `Steins;Gate 0` with names such as `	[deanzel] Steins;Gate - 14 [BD 1080p Hi10p Dual Audio FLAC][9ea26b1d].mkv`, but this one won't be shown when viewing `Steins;Gate 0` because it does NOT have ` 0 ` within it's name. 
 
