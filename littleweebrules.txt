@@ -1,0 +1,6 @@
+ ~
+ # Steins;Gate 0
+ * 10788
+ + ` 0 `
+ - `Steins `, `Gate`
+ ~
