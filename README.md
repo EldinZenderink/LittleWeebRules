@@ -17,7 +17,7 @@ You can contribute to this list using the following rules:
 
 5. Note down the value of canonicalTitle & id of the anime that you want to add.
 
-6. Use the following syntax (remove the whole {} containing the tag name):
+6. Use the following syntax (it's not case sensitive!) (remove the whole {} containing the tag name):
 
         ~
         # {canonicalTitle}
