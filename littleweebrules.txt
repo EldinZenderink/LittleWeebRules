@@ -3,3 +3,9 @@
  * 10788
  + `0`
  - `Steins `, `Gate`
+
+ ~
+ # Tokyo Ghoul:re
+ * 13929
+ + `re`
+ - `Tokyo`, `Ghoul`
