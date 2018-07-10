@@ -24,6 +24,7 @@ You can contribute to this list using the following rules:
         * {id}
         + `{must have identicator within possible episode titles}`,`{another indenticator}`
         - `{part (word) of episode title possibly used with other versions of the anime}`,`{another part}`
+        $ `{part of title it must not contain}`,`{another part}`
     
 7. For example:
 
@@ -32,6 +33,7 @@ You can contribute to this list using the following rules:
         * 10788
         + `0`
         - `Steins `, `Gate`
+        $
     
 This means that in case littleweeb finds an episode for `Steins;Gate 0` with the title `[HorribleSubs] Steins Gate 0 - 01 [1080p].mkv`, it will show this episode because it contains `0`.
 
