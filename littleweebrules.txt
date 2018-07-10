@@ -17,4 +17,4 @@
  * 10
  + 
  - `Monster`
- $ `hunter`,`strike`,`naki`,`hatsukoi`,`farm`,`rancher`,`musume`,`dragon,`powerpuff`,`pocket`,`interviews`,`my little`,`master nina`
+ $ `hunter`,`strike`,`naki`,`hatsukoi`,`farm`,`rancher`,`musume`,`dragon,`powerpuff`,`pocket`,`interviews`,`my little`,`master nina`,`amelia hutchins`
